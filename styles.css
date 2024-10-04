@@ -1,0 +1,12 @@
+.barra-navegacion {
+    height: 190px;
+    background-color: blue;
+    color: rgb(240, 244, 244);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.contacto-horario {
+    color: rgb(157, 127, 255);
+}
